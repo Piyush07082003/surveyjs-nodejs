@@ -1,0 +1,16 @@
+{
+  question: "How often do you exercise?",
+  answers: [
+    { text: "Every day", points: 3 },
+    { text: "A few times a week", points: 2 },
+    { text: "Rarely", points: 1 }
+  ]
+},
+{
+  question: "Which social media platform do you use the most?",
+  answers: [
+    { text: "Facebook", points: 1 },
+    { text: "Instagram", points: 2 },
+    { text: "Twitter", points: 3 }
+  ]
+}
